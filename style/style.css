@@ -91,9 +91,7 @@ button{
 }
 
 .banner__button:hover{
-    background-color: transparent;
-    border-color: #EE4248;
-    color: #EE4248;
+    background-color: #1F2E35;
 }
 
 .banner__image{
